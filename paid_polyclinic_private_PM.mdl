@@ -3587,7 +3587,7 @@
 			    nlines     	1
 			    max_width  	600
 			    justify    	1
-			    label      	"Диаграмма активностей")))))
+			    label      	"Диаграмма деятельности")))))
 	logical_presentations 	(list unit_reference_list
 	    (object ClassDiagram "Main"
 		quid       	"626160C40229"
