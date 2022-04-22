@@ -364,7 +364,7 @@
 			annotation 	8
 			autoResize 	TRUE)
 		    (object AssociationViewNew "$UNNAMED$15" @4
-			location   	(1671, 1601)
+			location   	(1672, 1600)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -381,27 +381,27 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$16" @5
 				Parent_View 	@4
-				location   	(151, -79)
+				location   	(152, -80)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"62617A8603AF"
 				client     	@4
 				supplier   	@1
 				vertices   	(list Points
-				    (1671, 1601)
-				    (2000, 1440))
+				    (1672, 1600)
+				    (1768, 1553))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$17" @6
 				Parent_View 	@4
-				location   	(151, -79)
+				location   	(152, -80)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"62617A8603B1"
 				client     	@4
 				supplier   	@3
 				vertices   	(list Points
-				    (1671, 1601)
-				    (1577, 1647))
+				    (1672, 1600)
+				    (1577, 1648))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$18" @7
 			location   	(1740, 1748)
@@ -560,7 +560,7 @@
 				supplier   	@12
 				vertices   	(list Points
 				    (2606, 1008)
-				    (2784, 1008))
+				    (2785, 1008))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$11" @16
 				Parent_View 	@14
@@ -654,7 +654,7 @@
 				supplier   	@13
 				vertices   	(list Points
 				    (1990, 1008)
-				    (2210, 1008))
+				    (2208, 1008))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$8" @21
 				Parent_View 	@19
@@ -826,7 +826,7 @@
 				supplier   	@27
 				vertices   	(list Points
 				    (981, 1008)
-				    (1090, 1008))
+				    (1089, 1008))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$2" @30
 				Parent_View 	@28
@@ -866,7 +866,7 @@
 				supplier   	@18
 				vertices   	(list Points
 				    (1431, 1008)
-				    (1552, 1008))
+				    (1554, 1008))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$5" @33
 				Parent_View 	@31
@@ -1067,7 +1067,7 @@
 				supplier   	@24
 				vertices   	(list Points
 				    (1734, 519)
-				    (1776, 624))
+				    (1752, 565))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$23" @43
 				Parent_View 	@41
@@ -1079,10 +1079,10 @@
 				supplier   	@40
 				vertices   	(list Points
 				    (1734, 519)
-				    (1648, 288))
+				    (1717, 473))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$24" @44
-			location   	(1383, 711)
+			location   	(1397, 690)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1099,27 +1099,27 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$25" @45
 				Parent_View 	@44
-				location   	(-265, 423)
+				location   	(-251, 402)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"62617AB002A7"
 				client     	@44
 				supplier   	@27
 				vertices   	(list Points
-				    (1383, 711)
+				    (1397, 690)
 				    (1233, 950))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$26" @46
 				Parent_View 	@44
-				location   	(-265, 423)
+				location   	(-251, 402)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"62617AB002A9"
 				client     	@44
 				supplier   	@40
 				vertices   	(list Points
-				    (1383, 711)
-				    (1561, 428))
+				    (1397, 690)
+				    (1561, 430))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$27" @47
 			location   	(2109, 483)
@@ -1147,7 +1147,7 @@
 				supplier   	@34
 				vertices   	(list Points
 				    (2109, 483)
-				    (2512, 655))
+				    (2513, 655))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$29" @49
 				Parent_View 	@47
@@ -1159,10 +1159,10 @@
 				supplier   	@40
 				vertices   	(list Points
 				    (2109, 483)
-				    (1705, 310))
+				    (1705, 311))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$30" @50
-			location   	(1958, 509)
+			location   	(1916, 478)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1179,27 +1179,27 @@
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$31" @51
 				Parent_View 	@50
-				location   	(310, 221)
+				location   	(268, 190)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"62617B3801B5"
 				client     	@50
 				supplier   	@37
 				vertices   	(list Points
-				    (1958, 509)
-				    (2125, 628))
+				    (1916, 478)
+				    (2127, 630))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$32" @52
 				Parent_View 	@50
-				location   	(310, 221)
+				location   	(268, 190)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"62617B3801B7"
 				client     	@50
 				supplier   	@40
 				vertices   	(list Points
-				    (1958, 509)
-				    (1705, 328))
+				    (1916, 478)
+				    (1705, 327))
 				line_style 	0)))))))
     root_category 	(object Class_Category "Logical View"
 	quid       	"626160C40079"
@@ -4813,7 +4813,7 @@
 				default_color 	TRUE)
 			    label      	(object SegLabel @155
 				Parent_View 	@154
-				location   	(563, 731)
+				location   	(995, 747)
 				font       	(object Font
 				    size       	10
 				    face       	"Arial"
@@ -4829,9 +4829,9 @@
 				max_width  	416
 				justify    	0
 				label      	"[ запись отсутствует ]"
-				pctDist    	0.593220
-				height     	206
-				orientation 	1)
+				pctDist    	0.728814
+				height     	227
+				orientation 	0)
 			    stereotype 	TRUE
 			    line_color 	3342489
 			    quidu      	"6262C89B0155"
@@ -5176,7 +5176,7 @@
 				fill_color 	13434879
 				anchor     	2
 				nlines     	1
-				max_width  	288
+				max_width  	2
 				justify    	1
 				compartmentItems 	(list Compartment
 				    "[осуществлена]"))
@@ -5231,7 +5231,7 @@
 				fill_color 	13434879
 				anchor     	2
 				nlines     	1
-				max_width  	213
+				max_width  	2
 				justify    	1
 				compartmentItems 	(list Compartment
 				    "[выставлен]"))
@@ -5308,7 +5308,7 @@
 				fill_color 	13434879
 				anchor     	2
 				nlines     	1
-				max_width  	200
+				max_width  	2
 				justify    	1
 				compartmentItems 	(list Compartment
 				    "[получены]"))
@@ -6297,7 +6297,7 @@
 			    location   	(256, 912)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	377
+			    max_width  	381
 			    justify    	0
 			    label      	"")
 			icon       	"Actor"
@@ -6327,7 +6327,7 @@
 			    location   	(1359, 652)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	701
+			    max_width  	705
 			    justify    	0
 			    label      	"")
 			icon       	"boundary"
@@ -6359,7 +6359,7 @@
 			    location   	(848, 1228)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	435
+			    max_width  	439
 			    justify    	0
 			    label      	"")
 			icon       	"entity"
@@ -6390,7 +6390,7 @@
 			    location   	(1871, 801)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	482
+			    max_width  	485
 			    justify    	0
 			    label      	"")
 			icon       	"control"
@@ -6453,7 +6453,7 @@
 			    location   	(4351, 1820)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	701
+			    max_width  	705
 			    justify    	0
 			    label      	"")
 			icon       	"boundary"
@@ -6485,7 +6485,7 @@
 			    location   	(2112, 2268)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	435
+			    max_width  	439
 			    justify    	0
 			    label      	"")
 			icon       	"entity"
@@ -6516,7 +6516,7 @@
 			    location   	(1535, 1836)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	701
+			    max_width  	705
 			    justify    	0
 			    label      	"")
 			icon       	"boundary"
@@ -6548,7 +6548,7 @@
 			    location   	(544, 2208)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	377
+			    max_width  	381
 			    justify    	0
 			    label      	"")
 			icon       	"Actor"
@@ -8321,7 +8321,7 @@
 			fill_color 	13434879
 			quidu      	"62618FC502F2"
 			width      	154
-			height     	5037
+			height     	5036
 			icon_height 	153
 			icon_width 	154
 			icon_y_offset 	0
@@ -10182,12 +10182,46 @@
 			ordinal    	39)
 		    (object Destruction_Marker @458
 			Parent_View 	@359
-			location   	(2880, 5261)
+			location   	(2880, 5260)
 			line_color 	3342489
 			fill_color 	13434879)))))
     root_subsystem 	(object SubSystem "Component View"
 	quid       	"626160C4007B"
-	physical_models 	(list unit_reference_list)
+	physical_models 	(list unit_reference_list
+	    (object module "PolyclinicServerCore" "SubType" "Main"
+		quid       	"6262D56D0093"
+		stereotype 	"Main Program"
+		language   	"ANSI C++")
+	    (object module "Polyclinic.exe" "NotAModuleType" "NotAModulePart"
+		quid       	"6262D64500F5"
+		stereotype 	"EXE"
+		visible_modules 	(list dependency_list
+		    (object Module_Visibility_Relationship
+			quid       	"6262D6B701C5"
+			supplier   	"Component View::PolyclinicServerCore"
+			quidu      	"6262D56D0093"
+			supplier_is_spec 	TRUE))
+		language   	"ANSI C++")
+	    (object module "СУБД" "TaskType" "Specification"
+		quid       	"6262D813016E"
+		stereotype 	"Task Specification"
+		visible_modules 	(list dependency_list
+		    (object Module_Visibility_Relationship
+			quid       	"6262D826005E"
+			supplier   	"Component View::Polyclinic.exe"
+			quidu      	"6262D64500F5"
+			supplier_is_spec 	TRUE))
+		language   	"ANSI C++")
+	    (object module "БД поликлиники" "NotAModuleType" "NotAModulePart"
+		quid       	"6262D8520187"
+		stereotype 	"Database"
+		visible_modules 	(list dependency_list
+		    (object Module_Visibility_Relationship
+			quid       	"6262DA5A0274"
+			supplier   	"Component View::СУБД"
+			quidu      	"6262D813016E"
+			supplier_is_spec 	TRUE))
+		language   	"ANSI C++"))
 	physical_presentations 	(list unit_reference_list
 	    (object Module_Diagram "Main"
 		quid       	"626160C40224"
@@ -10197,12 +10231,295 @@
 		max_width  	21600
 		origin_x   	0
 		origin_y   	0
-		items      	(list diagram_item_list)))
+		items      	(list diagram_item_list
+		    (object ModView "Component View::PolyclinicServerCore" "SubType" "Main" @459
+			location   	(1520, 992)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@459
+			    location   	(1315, 630)
+			    anchor_loc 	3
+			    nlines     	1
+			    max_width  	433
+			    justify    	1
+			    label      	"PolyclinicServerCore")
+			icon       	"Main Program"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	13434879
+			quidu      	"6262D56D0093"
+			width      	425
+			height     	644
+			autoResize 	TRUE
+			width      	425
+			height     	644)
+		    (object NoteView @460
+			location   	(1440, 368)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@460
+			    location   	(1143, 299)
+			    fill_color 	13434879
+			    nlines     	2
+			    max_width  	558
+			    justify    	1
+			    label      	
+|Реализует классы:
+|IСервер поликлиники
+			    )
+			line_color 	3342489
+			fill_color 	13434879
+			width      	618
+			height     	150)
+		    (object AttachView "" @461
+			stereotype 	TRUE
+			line_color 	3342489
+			client     	@460
+			supplier   	@459
+			vertices   	(list Points
+			    (1449, 443)
+			    (1464, 604))
+			line_style 	0)
+		    (object ModView "Component View::Polyclinic.exe" "NotAModuleType" "NotAModulePart" @462
+			location   	(2512, 976)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@462
+			    location   	(2406, 929)
+			    fill_color 	13434879
+			    anchor_loc 	3
+			    nlines     	2
+			    max_width  	402
+			    justify    	1
+			    label      	"Polyclinic.exe")
+			icon       	"EXE"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	13434879
+			quidu      	"6262D64500F5"
+			width      	725
+			height     	319
+			autoResize 	TRUE
+			width      	725
+			height     	319)
+		    (object ModVisView "" @463
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"6262D6B701C5"
+			client     	@462
+			supplier   	@459
+			vertices   	(list Points
+			    (2154, 978)
+			    (1724, 985))
+			line_style 	0)
+		    (object NoteView @464
+			location   	(2448, 416)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@464
+			    location   	(2148, 300)
+			    fill_color 	13434879
+			    nlines     	4
+			    max_width  	565
+			    justify    	1
+			    label      	
+|Реализует классы:
+|Сервер поликлиники,
+|Запрос к БД и
+|Талон на запись
+			    )
+			line_color 	3342489
+			fill_color 	13434879
+			width      	625
+			height     	244)
+		    (object AttachView "" @465
+			stereotype 	TRUE
+			line_color 	3342489
+			client     	@464
+			supplier   	@462
+			vertices   	(list Points
+			    (2462, 538)
+			    (2488, 818))
+			line_style 	0)
+		    (object ModView "Component View::СУБД" "TaskType" "Specification" @466
+			location   	(2096, 1408)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@466
+			    location   	(2085, 1240)
+			    anchor_loc 	3
+			    nlines     	1
+			    max_width  	553
+			    justify    	1
+			    label      	"СУБД")
+			icon       	"Task Specification"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	13434879
+			quidu      	"6262D813016E"
+			width      	482
+			height     	256
+			autoResize 	TRUE
+			width      	482
+			height     	256)
+		    (object ModVisView "" @467
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"6262D826005E"
+			client     	@466
+			supplier   	@462
+			vertices   	(list Points
+			    (2210, 1281)
+			    (2356, 1127))
+			line_style 	0)
+		    (object ModView "Component View::БД поликлиники" "NotAModuleType" "NotAModulePart" @468
+			location   	(2080, 1760)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@468
+			    location   	(2079, 1916)
+			    anchor_loc 	1
+			    nlines     	2
+			    max_width  	449
+			    justify    	0
+			    label      	"БД поликлиники")
+			icon       	"Database"
+			icon_style 	"Icon"
+			line_color 	3342489
+			fill_color 	13434879
+			quidu      	"6262D8520187"
+			width      	154
+			height     	154
+			autoResize 	TRUE
+			width      	154
+			height     	154)
+		    (object ModVisView "" @469
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"6262DA5A0274"
+			client     	@468
+			supplier   	@466
+			vertices   	(list Points
+			    (2081, 1684)
+			    (2087, 1529))
+			line_style 	0))))
 	category   	"Logical View"
 	quidu      	"626160C40079")
     process_structure 	(object Processes
 	quid       	"626160C4007C"
 	ProcsNDevs 	(list
+	    (object Processor "Кластер"
+		quid       	"6262DB6A02BA"
+		connections 	(list connection_list
+		    (object Connection_Relationship
+			quid       	"6262DDF002A7"
+			supplier   	"Интернет-сеть"
+			quidu      	"6262DB74008B"
+			supplier_is_device 	TRUE))
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Processor "Сервер #1"
+		quid       	"6262DBC00140"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Processor "Сервер #2"
+		quid       	"6262DBC70320"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Processor "Сервер #3"
+		quid       	"6262DBD2016B"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Processor "Сервер #4"
+		quid       	"6262DBDF031A"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Processor "Пользовательское устройство #1"
+		quid       	"6262DE2400C5"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Processor "Пользовательское устройство #2"
+		quid       	"6262DE3B0127"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Processor "Пользовательское устройство #3"
+		quid       	"6262DE6302CE"
+		characteristics 	""
+		scheduling 	"Preemptive"
+		processes  	(list processes))
+	    (object Device "БД"
+		quid       	"6262DCA60153"
+		characteristics 	"")
+	    (object Device "Интернет-сеть"
+		quid       	"6262DB74008B"
+		characteristics 	"")
+	    (object Device "ПО"
+		quid       	"6262DDC5001B"
+		characteristics 	"")
+	    (object Device "Браузер"
+		quid       	"6262DE840130"
+		characteristics 	"")
 	    (object Process_Diagram "Deployment View"
 		quid       	"626160C4007E"
 		title      	"Deployment View"
@@ -10210,8 +10527,617 @@
 		max_height 	28350
 		max_width  	21600
 		origin_x   	0
-		origin_y   	0
-		items      	(list diagram_item_list))))
+		origin_y   	788
+		items      	(list diagram_item_list
+		    (object ProcessorView "Кластер" @470
+			location   	(1488, 864)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@470
+			    location   	(740, 302)
+			    nlines     	2
+			    max_width  	1425
+			    justify    	0
+			    label      	"Кластер")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DB6A02BA"
+			width      	1500
+			height     	1193
+			annotation 	0)
+		    (object ProcessorView "Сервер #1" @471
+			location   	(1152, 688)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@471
+			    location   	(869, 494)
+			    nlines     	2
+			    max_width  	494
+			    justify    	0
+			    label      	"Сервер #1")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DBC00140"
+			width      	569
+			height     	457
+			annotation 	0)
+		    (object ProcessorView "Сервер #2" @472
+			location   	(1760, 688)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@472
+			    location   	(1474, 494)
+			    nlines     	2
+			    max_width  	500
+			    justify    	0
+			    label      	"Сервер #2")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DBC70320"
+			width      	575
+			height     	457
+			annotation 	0)
+		    (object ProcessorView "Сервер #3" @473
+			location   	(1152, 1184)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@473
+			    location   	(866, 991)
+			    nlines     	2
+			    max_width  	500
+			    justify    	0
+			    label      	"Сервер #3")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DBD2016B"
+			width      	575
+			height     	456
+			annotation 	0)
+		    (object ProcessorView "Сервер #4" @474
+			location   	(1760, 1184)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@474
+			    location   	(1474, 990)
+			    nlines     	2
+			    max_width  	500
+			    justify    	0
+			    label      	"Сервер #4")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DBDF031A"
+			width      	575
+			height     	457
+			annotation 	0)
+		    (object DeviceView "БД" @475
+			location   	(1856, 800)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@475
+			    location   	(1745, 745)
+			    nlines     	2
+			    max_width  	150
+			    justify    	0
+			    label      	"БД")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DCA60153"
+			width      	225
+			height     	180
+			annotation 	0)
+		    (object DeviceView "БД" @476
+			location   	(1248, 800)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@476
+			    location   	(1137, 745)
+			    nlines     	2
+			    max_width  	150
+			    justify    	0
+			    label      	"БД")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DCA60153"
+			width      	225
+			height     	180
+			annotation 	0)
+		    (object DeviceView "Интернет-сеть" @477
+			location   	(3136, 864)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@477
+			    location   	(2806, 633)
+			    nlines     	2
+			    max_width  	588
+			    justify    	0
+			    label      	"Интернет-сеть")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DB74008B"
+			width      	663
+			height     	531
+			annotation 	0)
+		    (object DeviceView "БД" @478
+			location   	(1248, 1296)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@478
+			    location   	(1137, 1241)
+			    nlines     	2
+			    max_width  	150
+			    justify    	0
+			    label      	"БД")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DCA60153"
+			width      	225
+			height     	180
+			annotation 	0)
+		    (object DeviceView "БД" @479
+			location   	(1856, 1296)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@479
+			    location   	(1745, 1241)
+			    nlines     	2
+			    max_width  	150
+			    justify    	0
+			    label      	"БД")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DCA60153"
+			width      	225
+			height     	180
+			annotation 	0)
+		    (object DeviceView "ПО" @480
+			location   	(992, 656)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@480
+			    location   	(881, 601)
+			    nlines     	2
+			    max_width  	150
+			    justify    	0
+			    label      	"ПО")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DDC5001B"
+			width      	225
+			height     	180
+			annotation 	0)
+		    (object DeviceView "ПО" @481
+			location   	(1616, 656)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@481
+			    location   	(1505, 601)
+			    nlines     	2
+			    max_width  	150
+			    justify    	0
+			    label      	"ПО")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DDC5001B"
+			width      	225
+			height     	180
+			annotation 	0)
+		    (object DeviceView "ПО" @482
+			location   	(1008, 1152)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@482
+			    location   	(897, 1097)
+			    nlines     	2
+			    max_width  	150
+			    justify    	0
+			    label      	"ПО")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DDC5001B"
+			width      	225
+			height     	180
+			annotation 	0)
+		    (object DeviceView "ПО" @483
+			location   	(1616, 1152)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@483
+			    location   	(1505, 1097)
+			    nlines     	2
+			    max_width  	150
+			    justify    	0
+			    label      	"ПО")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DDC5001B"
+			width      	225
+			height     	180
+			annotation 	0)
+		    (object ConnectionView "" @484
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"6262DDF002A7"
+			client     	@470
+			supplier   	@477
+			vertices   	(list Points
+			    (2207, 864)
+			    (2805, 864))
+			line_style 	0)
+		    (object ProcessorView "Пользовательское устройство #1" @485
+			location   	(2608, 1616)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@485
+			    location   	(2388, 1473)
+			    nlines     	2
+			    max_width  	369
+			    justify    	0
+			    label      	"Пользовательское устройство #1")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DE2400C5"
+			width      	444
+			height     	356
+			annotation 	0)
+		    (object ProcessorView "Пользовательское устройство #2" @486
+			location   	(3120, 1616)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@486
+			    location   	(2900, 1473)
+			    nlines     	2
+			    max_width  	369
+			    justify    	0
+			    label      	"Пользовательское устройство #2")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DE3B0127"
+			width      	444
+			height     	356
+			annotation 	0)
+		    (object ProcessorView "Пользовательское устройство #3" @487
+			location   	(3632, 1616)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@487
+			    location   	(3415, 1476)
+			    nlines     	2
+			    max_width  	363
+			    justify    	0
+			    label      	"Пользовательское устройство #3")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DE6302CE"
+			width      	438
+			height     	350
+			annotation 	0)
+		    (object DeviceView "Браузер" @488
+			location   	(3600, 1680)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@488
+			    location   	(3477, 1618)
+			    nlines     	2
+			    max_width  	175
+			    justify    	0
+			    label      	"Браузер")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DE840130"
+			width      	250
+			height     	194
+			annotation 	0)
+		    (object DeviceView "Браузер" @489
+			location   	(3088, 1680)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@489
+			    location   	(2965, 1618)
+			    nlines     	2
+			    max_width  	175
+			    justify    	0
+			    label      	"Браузер")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DE840130"
+			width      	250
+			height     	194
+			annotation 	0)
+		    (object DeviceView "Браузер" @490
+			location   	(2576, 1680)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@490
+			    location   	(2453, 1618)
+			    nlines     	2
+			    max_width  	175
+			    justify    	0
+			    label      	"Браузер")
+			icon_style 	"Icon"
+			line_color 	3342489
+			quidu      	"6262DE840130"
+			width      	250
+			height     	194
+			annotation 	0)
+		    (object NoteView @491
+			location   	(2608, 1968)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@491
+			    location   	(2470, 1908)
+			    fill_color 	13434879
+			    nlines     	2
+			    max_width  	240
+			    justify    	1
+			    label      	"Мобильное устр-во")
+			line_color 	3342489
+			fill_color 	13434879
+			width      	300
+			height     	132)
+		    (object NoteView @492
+			location   	(3120, 1968)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@492
+			    location   	(2982, 1908)
+			    fill_color 	13434879
+			    nlines     	2
+			    max_width  	240
+			    justify    	1
+			    label      	"ПК")
+			line_color 	3342489
+			fill_color 	13434879
+			width      	300
+			height     	132)
+		    (object NoteView @493
+			location   	(3632, 1952)
+			font       	(object Font
+			    size       	10
+			    face       	"Arial"
+			    charSet    	204
+			    bold       	FALSE
+			    italics    	FALSE
+			    underline  	FALSE
+			    strike     	FALSE
+			    color      	0
+			    default_color 	TRUE)
+			label      	(object ItemLabel
+			    Parent_View 	@493
+			    location   	(3494, 1892)
+			    fill_color 	13434879
+			    nlines     	2
+			    max_width  	240
+			    justify    	1
+			    label      	"Терминал")
+			line_color 	3342489
+			fill_color 	13434879
+			width      	300
+			height     	132)
+		    (object AttachView "" @494
+			stereotype 	TRUE
+			line_color 	3342489
+			client     	@485
+			supplier   	@491
+			vertices   	(list Points
+			    (2608, 1794)
+			    (2608, 1901))
+			line_style 	0)
+		    (object AttachView "" @495
+			stereotype 	TRUE
+			line_color 	3342489
+			client     	@486
+			supplier   	@492
+			vertices   	(list Points
+			    (3120, 1794)
+			    (3120, 1901))
+			line_style 	0)
+		    (object AttachView "" @496
+			stereotype 	TRUE
+			line_color 	3342489
+			client     	@487
+			supplier   	@493
+			vertices   	(list Points
+			    (3632, 1791)
+			    (3632, 1885))
+			line_style 	0)))))
     properties 	(object Properties
 	attributes 	(list Attribute_Set
 	    (object Attribute
