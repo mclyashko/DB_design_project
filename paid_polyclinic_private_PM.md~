@@ -10513,6 +10513,22 @@
 		characteristics 	"")
 	    (object Device "Интернет-сеть"
 		quid       	"6262DB74008B"
+		connections 	(list connection_list
+		    (object Connection_Relationship
+			quid       	"6262DF03036A"
+			supplier   	"Пользовательское устройство #1"
+			quidu      	"6262DE2400C5"
+			supplier_is_device 	FALSE)
+		    (object Connection_Relationship
+			quid       	"6262DF0800D9"
+			supplier   	"Пользовательское устройство #2"
+			quidu      	"6262DE3B0127"
+			supplier_is_device 	FALSE)
+		    (object Connection_Relationship
+			quid       	"6262DF0B02ED"
+			supplier   	"Пользовательское устройство #3"
+			quidu      	"6262DE6302CE"
+			supplier_is_device 	FALSE))
 		characteristics 	"")
 	    (object Device "ПО"
 		quid       	"6262DDC5001B"
@@ -11137,6 +11153,36 @@
 			vertices   	(list Points
 			    (3632, 1791)
 			    (3632, 1885))
+			line_style 	0)
+		    (object ConnectionView "" @497
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"6262DF03036A"
+			client     	@477
+			supplier   	@485
+			vertices   	(list Points
+			    (3136, 1129)
+			    (2608, 1453))
+			line_style 	0)
+		    (object ConnectionView "" @498
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"6262DF0800D9"
+			client     	@477
+			supplier   	@486
+			vertices   	(list Points
+			    (3136, 1129)
+			    (3120, 1453))
+			line_style 	0)
+		    (object ConnectionView "" @499
+			stereotype 	TRUE
+			line_color 	3342489
+			quidu      	"6262DF0B02ED"
+			client     	@477
+			supplier   	@487
+			vertices   	(list Points
+			    (3136, 1129)
+			    (3632, 1456))
 			line_style 	0)))))
     properties 	(object Properties
 	attributes 	(list Attribute_Set

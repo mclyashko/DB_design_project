@@ -6297,7 +6297,7 @@
 			    location   	(256, 912)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	381
+			    max_width  	362
 			    justify    	0
 			    label      	"")
 			icon       	"Actor"
@@ -6327,7 +6327,7 @@
 			    location   	(1359, 652)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	705
+			    max_width  	690
 			    justify    	0
 			    label      	"")
 			icon       	"boundary"
@@ -6359,7 +6359,7 @@
 			    location   	(848, 1228)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	439
+			    max_width  	465
 			    justify    	0
 			    label      	"")
 			icon       	"entity"
@@ -6390,7 +6390,7 @@
 			    location   	(1871, 801)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	485
+			    max_width  	474
 			    justify    	0
 			    label      	"")
 			icon       	"control"
@@ -6453,7 +6453,7 @@
 			    location   	(4351, 1820)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	705
+			    max_width  	690
 			    justify    	0
 			    label      	"")
 			icon       	"boundary"
@@ -6485,7 +6485,7 @@
 			    location   	(2112, 2268)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	439
+			    max_width  	465
 			    justify    	0
 			    label      	"")
 			icon       	"entity"
@@ -6516,7 +6516,7 @@
 			    location   	(1535, 1836)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	705
+			    max_width  	690
 			    justify    	0
 			    label      	"")
 			icon       	"boundary"
@@ -6548,7 +6548,7 @@
 			    location   	(544, 2208)
 			    anchor_loc 	1
 			    nlines     	2
-			    max_width  	381
+			    max_width  	362
 			    justify    	0
 			    label      	"")
 			icon       	"Actor"
@@ -7742,7 +7742,7 @@
 			    y_coord    	0
 			    Nested     	FALSE))
 		    (object InterObjView "$UNNAMED$54" @297
-			location   	(912, 224)
+			location   	(976, 224)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -7755,7 +7755,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@297
-			    location   	(912, 250)
+			    location   	(976, 250)
 			    anchor_loc 	1
 			    nlines     	2
 			    max_width  	687
@@ -7773,42 +7773,42 @@
 			icon_y_offset 	0
 			annotation 	1
 			Focus_Of_Control 	(object Focus_Of_Control "" @298
-			    location   	(912, 304)
+			    location   	(976, 304)
 			    line_color 	3342489
 			    InterObjView 	@297
 			    height     	90
 			    y_coord    	0
 			    Nested     	FALSE)
 			Focus_Of_Control 	(object Focus_Of_Control "" @299
-			    location   	(912, 1072)
+			    location   	(976, 1072)
 			    line_color 	3342489
 			    InterObjView 	@297
 			    height     	90
 			    y_coord    	0
 			    Nested     	FALSE)
 			Focus_Of_Control 	(object Focus_Of_Control "" @300
-			    location   	(912, 2736)
+			    location   	(976, 2736)
 			    line_color 	3342489
 			    InterObjView 	@297
 			    height     	90
 			    y_coord    	0
 			    Nested     	FALSE)
 			Focus_Of_Control 	(object Focus_Of_Control "" @301
-			    location   	(912, 2864)
+			    location   	(976, 2864)
 			    line_color 	3342489
 			    InterObjView 	@297
 			    height     	90
 			    y_coord    	0
 			    Nested     	FALSE)
 			Focus_Of_Control 	(object Focus_Of_Control "" @302
-			    location   	(912, 3504)
+			    location   	(976, 3504)
 			    line_color 	3342489
 			    InterObjView 	@297
 			    height     	90
 			    y_coord    	0
 			    Nested     	FALSE)
 			Focus_Of_Control 	(object Focus_Of_Control "" @303
-			    location   	(912, 4656)
+			    location   	(976, 4656)
 			    line_color 	3342489
 			    InterObjView 	@297
 			    height     	90
@@ -8321,7 +8321,7 @@
 			fill_color 	13434879
 			quidu      	"62618FC502F2"
 			width      	154
-			height     	5036
+			height     	5035
 			icon_height 	153
 			icon_width 	154
 			icon_y_offset 	0
@@ -8456,7 +8456,7 @@
 			    y_coord    	0
 			    Nested     	FALSE))
 		    (object InterObjView "$UNNAMED$61" @375
-			location   	(3728, 224)
+			location   	(3888, 240)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -8469,7 +8469,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@375
-			    location   	(3728, 249)
+			    location   	(3888, 265)
 			    anchor_loc 	1
 			    nlines     	2
 			    max_width  	360
@@ -8481,20 +8481,20 @@
 			fill_color 	13434879
 			quidu      	"626197F5035B"
 			width      	120
-			height     	5252
+			height     	5236
 			icon_height 	162
 			icon_width 	120
 			icon_y_offset 	0
 			annotation 	1
 			Focus_Of_Control 	(object Focus_Of_Control "" @376
-			    location   	(3728, 4400)
+			    location   	(3888, 4400)
 			    line_color 	3342489
 			    InterObjView 	@375
 			    height     	90
 			    y_coord    	0
 			    Nested     	FALSE)
 			Focus_Of_Control 	(object Focus_Of_Control "" @377
-			    location   	(3728, 4528)
+			    location   	(3888, 4528)
 			    line_color 	3342489
 			    InterObjView 	@375
 			    height     	90
@@ -8514,7 +8514,7 @@
 			    default_color 	TRUE)
 			label      	(object SegLabel @379
 			    Parent_View 	@378
-			    location   	(743, 260)
+			    location   	(772, 280)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -8531,8 +8531,8 @@
 			    max_width  	722
 			    justify    	0
 			    label      	"Создать учетную запись в системе( )"
-			    pctDist    	0.500000
-			    height     	45
+			    pctDist    	0.493225
+			    height     	25
 			    orientation 	0)
 			line_color 	3342489
 			client     	@289
@@ -8540,7 +8540,7 @@
 			Focus_Src  	@290
 			Focus_Entry 	@298
 			origin     	(591, 304)
-			terminus   	(896, 304)
+			terminus   	(960, 304)
 			ordinal    	0)
 		    (object InterMessView "Создать новую учетную запись( )" @380
 			location   	(16, 432)
@@ -8612,7 +8612,7 @@
 			    quidu      	"626195740095"
 			    anchor_loc 	1
 			    nlines     	1
-			    max_width  	559
+			    max_width  	560
 			    justify    	0
 			    label      	"Осуществить запрос к БД( )"
 			    pctDist    	0.500000
@@ -8766,7 +8766,7 @@
 			    default_color 	TRUE)
 			label      	(object SegLabel @391
 			    Parent_View 	@390
-			    location   	(743, 1028)
+			    location   	(775, 1028)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -8792,7 +8792,7 @@
 			Focus_Src  	@291
 			Focus_Entry 	@299
 			origin     	(591, 1072)
-			terminus   	(896, 1072)
+			terminus   	(960, 1072)
 			ordinal    	6)
 		    (object InterMessView "Войти в учетную запись( )" @392
 			location   	(16, 1200)
@@ -8864,7 +8864,7 @@
 			    quidu      	"6261965702E8"
 			    anchor_loc 	1
 			    nlines     	1
-			    max_width  	559
+			    max_width  	560
 			    justify    	0
 			    label      	"Осуществить запрос к БД( )"
 			    pctDist    	0.500000
@@ -9032,7 +9032,7 @@
 			    quidu      	"626196760164"
 			    anchor_loc 	1
 			    nlines     	1
-			    max_width  	663
+			    max_width  	666
 			    justify    	0
 			    label      	"Получить пароль пользователя( )"
 			    pctDist    	0.500000
@@ -9312,7 +9312,7 @@
 			    default_color 	TRUE)
 			label      	(object SegLabel @417
 			    Parent_View 	@416
-			    location   	(743, 2692)
+			    location   	(775, 2692)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -9338,7 +9338,7 @@
 			Focus_Src  	@292
 			Focus_Entry 	@300
 			origin     	(591, 2736)
-			terminus   	(896, 2736)
+			terminus   	(960, 2736)
 			ordinal    	19)
 		    (object InterMessView "Показать график работы специалистов( )" @418
 			location   	(16, 2864)
@@ -9354,7 +9354,7 @@
 			    default_color 	TRUE)
 			label      	(object SegLabel @419
 			    Parent_View 	@418
-			    location   	(743, 2820)
+			    location   	(775, 2820)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -9380,7 +9380,7 @@
 			Focus_Src  	@293
 			Focus_Entry 	@301
 			origin     	(591, 2864)
-			terminus   	(896, 2864)
+			terminus   	(960, 2864)
 			ordinal    	20)
 		    (object InterMessView "Осуществить запрос к БД( )" @420
 			location   	(16, 2992)
@@ -9564,7 +9564,7 @@
 			    default_color 	TRUE)
 			label      	(object SegLabel @429
 			    Parent_View 	@428
-			    location   	(743, 3460)
+			    location   	(775, 3460)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -9590,7 +9590,7 @@
 			Focus_Src  	@294
 			Focus_Entry 	@302
 			origin     	(591, 3504)
-			terminus   	(896, 3504)
+			terminus   	(960, 3504)
 			ordinal    	25)
 		    (object InterMessView "Заполнить данные(List<Object>)" @430
 			location   	(16, 3632)
@@ -9662,7 +9662,7 @@
 			    quidu      	"62619793028E"
 			    anchor_loc 	1
 			    nlines     	1
-			    max_width  	831
+			    max_width  	832
 			    justify    	0
 			    label      	"Создать новый запрос на осблуживание( )"
 			    pctDist    	0.500000
@@ -9858,7 +9858,7 @@
 			    default_color 	TRUE)
 			label      	(object SegLabel @443
 			    Parent_View 	@442
-			    location   	(3544, 4356)
+			    location   	(3624, 4356)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -9883,7 +9883,7 @@
 			supplier   	@372
 			Focus_Src  	@376
 			Focus_Entry 	@373
-			origin     	(3712, 4400)
+			origin     	(3872, 4400)
 			terminus   	(3376, 4400)
 			ordinal    	32)
 		    (object InterMessView "Подтвердить запись( )" @444
@@ -9900,7 +9900,7 @@
 			    default_color 	TRUE)
 			label      	(object SegLabel @445
 			    Parent_View 	@444
-			    location   	(3544, 4484)
+			    location   	(3624, 4484)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -9925,7 +9925,7 @@
 			supplier   	@372
 			Focus_Src  	@377
 			Focus_Entry 	@374
-			origin     	(3712, 4528)
+			origin     	(3872, 4528)
 			terminus   	(3376, 4528)
 			ordinal    	33)
 		    (object InterMessView "Оплатить запись( )" @446
@@ -9942,7 +9942,7 @@
 			    default_color 	TRUE)
 			label      	(object SegLabel @447
 			    Parent_View 	@446
-			    location   	(743, 4612)
+			    location   	(775, 4612)
 			    font       	(object Font
 				size       	10
 				face       	"Arial"
@@ -9968,7 +9968,7 @@
 			Focus_Src  	@296
 			Focus_Entry 	@303
 			origin     	(591, 4656)
-			terminus   	(896, 4656)
+			terminus   	(960, 4656)
 			ordinal    	34)
 		    (object InterMessView "Осуществить запрос к БД( )" @448
 			location   	(16, 4784)
@@ -10182,7 +10182,7 @@
 			ordinal    	39)
 		    (object Destruction_Marker @458
 			Parent_View 	@359
-			location   	(2880, 5260)
+			location   	(2880, 5259)
 			line_color 	3342489
 			fill_color 	13434879)))))
     root_subsystem 	(object SubSystem "Component View"
